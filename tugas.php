@@ -54,7 +54,7 @@
             </div>
             <div class="right-side">
                 <div class="title">
-                    <p><b>Clothes</b><i> your <br>sprite </i><b>of Fashion</b></p>
+                    <p><b>Clothes</b> <i>your<br>sprite </i> <b>of Fashion</b></p>
                 </div>
                 <button>Shop Now</button>
                 <div class="img2">
